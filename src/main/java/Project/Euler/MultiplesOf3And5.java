@@ -37,5 +37,5 @@ public class MultiplesOf3And5 {
     }
 
     // Time complexity is O(m) where m is the number of multiples of 3 and 5
-    // Space complexity is O(1) 
+    // Space complexity is O(1)
 }
