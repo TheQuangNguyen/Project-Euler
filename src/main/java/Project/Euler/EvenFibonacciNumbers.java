@@ -29,5 +29,5 @@ public class EvenFibonacciNumbers {
     }
 
     // Time complexity is O(f) where f is the number of terms of fibonacci numbers that are smaller than the input numbers
-    // Space complexity is O(1) 
+    // Space complexity is O(1)
 }

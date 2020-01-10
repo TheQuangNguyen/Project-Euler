@@ -9,6 +9,6 @@ public class EvenFibonacciNumbersTest {
     @Test
     public void evenFibNumbersTest() {
         int answer = evenFibNumbers(4000000);
-        assertEquals(44, answer);
+        assertEquals(4613732, answer);
     }
 }
